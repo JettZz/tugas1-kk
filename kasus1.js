@@ -17,7 +17,3 @@ if (totalBelanja > 30000) {
 } else {
     console.log('Status: Belanja lagi untuk mendaptkan diskon')
 }
-
-
-
-
